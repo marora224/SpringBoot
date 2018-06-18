@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringSampleProjForDevOps
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mahendraarora
+Implementation-Vendor-Id: io.devOps.springSampleProj
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springSampleProj
+Created-By: Maven Integration for Eclipse
+
